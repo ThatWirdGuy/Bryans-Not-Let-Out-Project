@@ -5,3 +5,7 @@ h1{
 p{
  text-align: center;
 }
+
+body{
+ background-image: linear-gradient(to right, #0a0f57, #240026);
+}
